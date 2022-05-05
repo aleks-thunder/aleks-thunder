@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aleks-thunder
 - 👀 I’m interested in Angular Junior FE
 - 🌱 I’m currently learning Angular, NodeJs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - https://www.linkedin.com/in/oleksandr-moisieienko-b39a52238/
