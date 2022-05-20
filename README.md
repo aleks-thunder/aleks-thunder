@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Oleksandr
-- 👀 I’m interested in Angular Junior FE position
+- 👀 I’m interested in Angular FE position
 - 🌱 I’m currently learning Angular, NodeJs
 - 📫 How to reach me - https://www.linkedin.com/in/oleksandr-moisieienko-b39a52238/
