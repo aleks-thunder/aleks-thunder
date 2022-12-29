@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Oleksandr
-- 👀 I’m interested in Angular FE position
-- 🌱 I’m currently learning Angular, NodeJs
+- 👀 I’m interested in FE Angular/React position
 - 📫 How to reach me - https://www.linkedin.com/in/oleksandr-moisieienko-b39a52238/
